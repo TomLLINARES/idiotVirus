@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="javaSide:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaSide_jar</output-path>
+    <root id="archive" name="javaSide.jar">
+      <element id="module-output" name="javaSide" />
+    </root>
+  </artifact>
+</component>
